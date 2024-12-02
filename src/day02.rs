@@ -7,12 +7,7 @@ fn is_combination_safe(curr : &i32, next : &i32, is_ascendent : bool) -> bool {
 
 fn is_seq_safe(sequence: &Vec<i32>) -> bool {
     let is_ascendent = sequence[0] < sequence[1];
-    for (curr, next) in sequence.into_iter().tuple_windows() {
-        if !is_combination_safe(curr, next, is_ascendent) {
-            return false;
-        }
-    }
-    true
+    sequence.into_iter().tuple_windows().all(|(curr,next)| is_combination_safe(curr, next, is_ascendent))
 }
 
 fn is_seq_safe_skipping(sequence: &Vec<i32>, pos_to_skip: usize) -> bool {
