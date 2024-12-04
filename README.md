@@ -8,3 +8,4 @@ Trying to get better at other languages.
 | Day 1  | [Problem 1](https://adventofcode.com/2024/day/1)   | [day01.rs](https://github.com/Pau6b/advent-of-code-2024/blob/main/src/day01.rs)| ✓        |
 | Day 2  | [Problem 2](https://adventofcode.com/2024/day/2)   | [day02.rs](https://github.com/Pau6b/advent-of-code-2024/blob/main/src/day02.rs)| ✓        |
 | Day 3  | [Problem 3](https://adventofcode.com/2024/day/3)   | [day03.rs](https://github.com/Pau6b/advent-of-code-2024/blob/main/src/day03.rs)| ✓        |
+| Day 4  | [Problem 4](https://adventofcode.com/2024/day/4)   | [day04.rs](https://github.com/Pau6b/advent-of-code-2024/blob/main/src/day04.rs)| ✓        |

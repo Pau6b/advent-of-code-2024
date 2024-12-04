@@ -2,14 +2,14 @@ use advent_of_code_2024::*;
 
 fn main() {
     let problems = [
-        //(day01::problem1 as fn(), "day01::problem1"),
-        //(day01::problem2 as fn(), "day01::problem2"),
-        //(day02::problem1 as fn(), "day02::problem1"),
-        //(day02::problem2 as fn(), "day02::problem2"),
+        (day01::problem1 as fn(), "day01::problem1"),
+        (day01::problem2 as fn(), "day01::problem2"),
+        (day02::problem1 as fn(), "day02::problem1"),
+        (day02::problem2 as fn(), "day02::problem2"),
         (day03::problem1 as fn(), "day03::problem1"),
         (day03::problem2 as fn(), "day03::problem2"),
-        //(day04::problem1 as fn(), "day04::problem1"),
-        //(day04::problem2 as fn(), "day04::problem2"),
+        (day04::problem1 as fn(), "day04::problem1"),
+        (day04::problem2 as fn(), "day04::problem2"),
         //(day05::problem1 as fn(), "day05::problem1"),
         //(day05::problem2 as fn(), "day05::problem2"),
         //(day06::problem1 as fn(), "day06::problem1"),
