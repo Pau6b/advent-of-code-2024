@@ -7,3 +7,4 @@ authors = ["Pau Murciano"]
 [dependencies]
 itertools = "0.13.0"
 regex = "1.11.1"
+lazy_static = "1.5.0"
