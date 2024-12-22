@@ -11,3 +11,4 @@ Trying to get better at other languages.
 | Day 4  | [Problem 4](https://adventofcode.com/2024/day/4)   | [day04.rs](https://github.com/Pau6b/advent-of-code-2024/blob/main/src/day04.rs)| ✓        |
 | ...... | ................................................   | .........| X        |
 | Day 21 | [Problem 21](https://adventofcode.com/2024/day/21) | [day21.rs](https://github.com/Pau6b/advent-of-code-2024/blob/main/src/day21.rs)| ✓        |
+| Day 22 | [Problem 22](https://adventofcode.com/2024/day/22) | [day21.rs](https://github.com/Pau6b/advent-of-code-2024/blob/main/src/day22.rs)| ✓        |
